@@ -6,4 +6,4 @@
           https://github.com/luozhexin/count_rice/blob/master/GUI.png
   原图是rice.png
   
-       ![image]https://github.com/luozhexin/count_rice/blob/master/rice.png
+  ![]https://github.com/luozhexin/count_rice/blob/master/rice.png
