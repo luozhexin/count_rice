@@ -5,7 +5,7 @@
   
   效果如下
   
-![]https://github.com/luozhexin/count_rice/raw/master/GUI.png
+![]GUI.png
           
   原图是rice.png
 
